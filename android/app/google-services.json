@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235337926431",
+    "project_id": "chat-app-flutter-sameer",
+    "storage_bucket": "chat-app-flutter-sameer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235337926431:android:b95926c2ff505022fa922a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1ji3afweerIbMExknGHKf9jxO4lVv7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
